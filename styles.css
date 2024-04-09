@@ -537,7 +537,7 @@ transition: opacity  0.5s ease-in-out;
 
 }
 
-@media only screen and (min-width:1441px){
+@media only screen and (min-width:1900px){
 
   .container1{
     background-color: black;
@@ -641,7 +641,7 @@ transition: opacity  0.5s ease-in-out;
      
    }
    
-@media only screen and (min-width: 1101px) and (max-width: 1440px){
+@media only screen and (min-width: 1101px) and (max-width: 1900px){
 
   .container1{
     background-color: black;
