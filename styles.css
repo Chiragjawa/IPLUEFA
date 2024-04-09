@@ -876,7 +876,7 @@ transition: opacity  0.5s ease-in-out;
     
     .IPL {
     
-    font: 1.5em 'Montserrat';
+    font: 2em 'Montserrat';
     
     top: 50%;
     
@@ -885,7 +885,7 @@ transition: opacity  0.5s ease-in-out;
     
     .UEFA{
     
-    font: 1.4em 'Montserrat';
+    font: 2em 'Montserrat';
     
     top: 51%;
     
@@ -981,7 +981,7 @@ transition: opacity  0.5s ease-in-out;
       
       .IPL {
       
-      font: 1.5em 'Montserrat';
+      font: 2em 'Montserrat';
       
       top: 60%;
       
@@ -990,7 +990,7 @@ transition: opacity  0.5s ease-in-out;
       
       .UEFA{
       
-      font: 1.4em 'Montserrat';
+      font: 2em 'Montserrat';
       
       top: 71%;
       
@@ -1029,7 +1029,7 @@ transition: opacity  0.5s ease-in-out;
         transform: translate(100%,0%);
         z-index: 3;
         top: -34em;
-        left: 59em;
+        left: 55em;
       }
       .pacman-button{
         margin-top: 28em;
@@ -1092,7 +1092,7 @@ transition: opacity  0.5s ease-in-out;
       
       .IPL {
       
-      font: 1.5em 'Montserrat';
+      font: 1.7em 'Montserrat';
       
       top: 60%;
       
@@ -1101,7 +1101,7 @@ transition: opacity  0.5s ease-in-out;
       
       .UEFA{
       
-      font: 1.4em 'Montserrat';
+      font: 1.7em 'Montserrat';
       
       top: 71%;
       
@@ -1197,7 +1197,7 @@ transition: opacity  0.5s ease-in-out;
       
       .IPL {
       
-      font: 1.5em 'Montserrat';
+      font: 1.7em 'Montserrat';
       
       top: 60%;
       
@@ -1206,9 +1206,9 @@ transition: opacity  0.5s ease-in-out;
       
       .UEFA{
       
-      font: 1.4em 'Montserrat';
+      font: 1.7em 'Montserrat';
       
-      top: 71%;
+      top: 60%;
       
       }
       
@@ -1224,8 +1224,12 @@ transition: opacity  0.5s ease-in-out;
       }
       
       
-      
-      
+      .heading{
+        font-size: 0.4em;
+      }
+      .heading1{
+        font-size: 0.4em;
+      }
       .title2{
       display: flex;
       height: 100%;
@@ -1245,7 +1249,7 @@ transition: opacity  0.5s ease-in-out;
         transform: translate(100%,0%);
         z-index: 3;
         top: -45em;
-        left: 49em;
+        left: 42em;
     }
  
       
