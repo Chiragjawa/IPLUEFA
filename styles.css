@@ -1158,7 +1158,7 @@ transition: opacity  0.5s ease-in-out;
         
       align-items: center;
       font-family: Arial;
-      top: -35%;
+      top: -15%;
       position: relative;
       }
       
@@ -1184,7 +1184,7 @@ transition: opacity  0.5s ease-in-out;
         transform: translate(100%,0%);
         z-index: 3;
         top: -34em;
-        left: 70em;
+        left: 59em;
       }
       .pacman-button{
         margin-top: 28em;
@@ -1297,7 +1297,7 @@ transition: opacity  0.5s ease-in-out;
         justify-content: center; 
        transform: translate(100%,25%);
         z-index: 3;
-        top: -45em;
+        top: -59em;
         left: 52em;
       }
       
@@ -1321,7 +1321,7 @@ transition: opacity  0.5s ease-in-out;
       justify-items: center;
       }
       .rulebook1{
-        margin: 0em 20em;margin-bottom: 10em;
+        margin: 0em 20em;margin-bottom: 5em;
       }}
       body{ overflow-x: hidden;}
      @media only screen and (min-width: 280px) and (max-width: 339px){
